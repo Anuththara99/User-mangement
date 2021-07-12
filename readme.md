@@ -2,6 +2,6 @@
 
 ##### This is the _readme_ file for **User-management** multi module.
 
-Commit 1 from hot-fix branch.
+Comment 1 from hot-fix branch.
 
 Commit 2 from master branch.
