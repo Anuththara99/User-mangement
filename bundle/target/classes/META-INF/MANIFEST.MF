@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1625831452094
+Build-Jdk: 11.0.11
+Built-By: anuththara
+Bundle-Description: Maven Multimodule project for User-mangement.
+Bundle-ManifestVersion: 2
+Bundle-Name: User-mangement Bundle
+Bundle-SymbolicName: com.company.app.User-mangement-bundle
+Bundle-Version: 1.0.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.company.app;uses:="org.osgi.framework,org.osgi.servi
+ ce.component,org.slf4j";version="1.0.0"
+Import-Package: org.osgi.framework;version="[1.5,2)",org.osgi.service.co
+ mponent;version="[1.1,2)",org.slf4j;version="[1.5,2)"
+Tool: Bnd-1.50.0

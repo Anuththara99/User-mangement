@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>User-mangement Package</comment>
+<entry key="path">/etc/packages/app/User-mangement-content.zip</entry>
+<entry key="createdBy">anuththara</entry>
+<entry key="created">2021-07-09T17:20:52.326+0530</entry>
+<entry key="groupId">com.company.app</entry>
+<entry key="name">User-mangement-content</entry>
+<entry key="description">Maven Multimodule project for User-mangement.</entry>
+<entry key="artifactId">User-mangement-content</entry>
+<entry key="version">1</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">app</entry>
+</properties>
