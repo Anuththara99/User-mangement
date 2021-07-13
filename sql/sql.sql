@@ -1,4 +1,5 @@
 CREATE DATABASE university;
+USE university;
 DROP TABLE user;
 CREATE TABLE User (
 	userId int NOT NULL,
@@ -102,3 +103,4 @@ WHERE userId=9;
 
 SELECT * FROM User
 ORDER BY dOB;
+
