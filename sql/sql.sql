@@ -1,8 +1,6 @@
 CREATE DATABASE university;
-<<<<<<< HEAD
 USE university;
-=======
->>>>>>> 7b5ea291677d9edad1519f4d19f280ecefe9517e
+
 DROP TABLE user;
 CREATE TABLE User (
 	userId int NOT NULL,
@@ -105,9 +103,5 @@ DELETE FROM User
 WHERE userId=9;
 
 SELECT * FROM User
-<<<<<<< HEAD
 ORDER BY dOB;
 
-=======
-ORDER BY dOB;
->>>>>>> 7b5ea291677d9edad1519f4d19f280ecefe9517e
