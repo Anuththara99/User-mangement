@@ -5,4 +5,4 @@
 Comment 1 from hot-fix branch.
 
 Commit 2 from master branch.
->>>>>>> hot-fix
+
