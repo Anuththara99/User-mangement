@@ -6,4 +6,4 @@ Comment 1 from hot-fix branch.
 
 Commit 2 from master branch.
 
-Comment 3 from master branch.
+change Comment 3 from master branch.
